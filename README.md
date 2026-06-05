@@ -32,31 +32,25 @@ Data is fully synthetic and provided for educational purposes only.
 
 Raw transactions (12.8M rows)
 
-        |
+        
 
 1\. Load & Label       merge business \+ consumer, tag target
 
-        |
 
 2\. Clean              fill merchant nulls, drop amount outliers (1st-99th pct, \~2%)
 
-        |
 
 3\. Time Features      parse timestamp to hour, derive weekday/weekend flag
 
-        |
 
 4\. Aggregate          collapse to one row per card (105K cards total)
 
-        |
 
 5\. Feature Engineering   14 behavioural features
 
-        |
 
 6\. Train & Compare    Logistic Regression, Random Forest, Gradient Boosting
 
-        |
 
 7\. Score & Segment    probability 0-1 mapped to HIGH / MEDIUM / LOW tiers
 
