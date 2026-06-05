@@ -175,9 +175,9 @@ The notebook auto-detects Kaggle vs local environments. Random seed 42 throughou
 ## 📂 Dataset Access
 
 The raw synthetic data can be downloaded directly from the [GitHub Repository Releases](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/tag/v1.0.0):
-* [Download business_cards.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/business_cards_MDQ.parquet)[cite: 1]
-* [Download consumer_cards.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/consumer_cards_MDQ.parquet)[cite: 1]
-* [Download merchants_reference.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/merchants_reference.parquet)[cite: 1]
+* [Download business_cards.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/business_cards_MDQ.parquet)
+* [Download consumer_cards.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/consumer_cards_MDQ.parquet)
+* [Download merchants_reference.parquet](https://github.com/kasadi97/hidden-entrepreneur-detection/releases/download/v1.0.0/merchants_reference.parquet)
 
 ---
 
