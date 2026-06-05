@@ -172,6 +172,12 @@ jupyter notebook final-solutionFinal.ipynb
 
 The notebook auto-detects Kaggle vs local environments. Random seed 42 throughout — results are fully reproducible.
 
+## 📂 Dataset Access
+
+The synthetic dataset used in this project contains over 12 million transaction rows[cite: 1]. Due to GitHub's file size limits, the raw `.parquet` files are hosted on Google Drive.
+
+Download the dataset from the [Google Drive Data Folder](https://drive.google.com/drive/folders/1bmhqUIWXbVX_Kidq_kVZESIMmb3bpbOL?usp=sharing).
+
 ---
 
 ## Stack
